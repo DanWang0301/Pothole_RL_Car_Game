@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+opencv_python
+Pillow
+stable_baselines3
+gym
+airsim
