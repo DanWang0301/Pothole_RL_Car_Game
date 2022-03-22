@@ -3,5 +3,8 @@
 This is a demo made with reinforcement learning and Unreal. The purpose of the Demo is mainly to allow unmanned vehicles to recognize pictures through reinforcement learning. I use three models to train the virual car.
 ## How to build it
 ### Environment 
-1. 
+1. Python 3.6
+2. Unreal
+### Step
+
 
